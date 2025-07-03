@@ -1,0 +1,1 @@
+# OpenCV-Script-to-Resize-Colored-Video-Frames
